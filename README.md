@@ -12,17 +12,17 @@
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/ca443e86-8ec0-4569-a282-cf626764d344" /> 
       <br/>
-      <b>다이나믹한 전투 액션</b>
+      <b>보스 연출</b>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/280d3da7-190b-4f3c-849b-38e9781cacf3" /> 
       <br/>
-      <b>보스 등장 연출</b>
+      <b>메인 로비</b>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/4bac775f-b7d3-4db8-a9b3-f7c41c329473" />
       <br/>
-      <b>부드러운 카메라 워킹</b>
+      <b>맵</b>
     </td>
   </tr>
 </table>
